@@ -1,0 +1,19 @@
+{
+	"name": "Yongjian Groenendijk-Li, PhD",
+	"short_name": "Yongjian Groenendijk-Li",
+	"description": "Interdisciplinary social scientist working on human-centred technology, ageing, migration and care.",
+	"start_url": "/",
+	"lang": "en-GB",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
